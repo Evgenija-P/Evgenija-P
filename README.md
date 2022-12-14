@@ -1,11 +1,10 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘!   𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙴𝚟𝚐𝚎𝚗𝚒𝚊 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚄𝚔𝚛𝚊𝚒𝚗𝚎</h3>
-<br>
-<br>
+
 
 <h2><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" height="28"/>  𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evgenija-P&theme=darkhub)](https://github.com/Evgenija-P/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Evgenija-P&theme=discord&margin-w=15&no-frame=true&no-bg=true)](https://github.com/Evgenija-P/github-profile-trophy)
 <!--
 **Evgenija-P/Evgenija-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
