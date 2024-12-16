@@ -24,6 +24,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgenija-P&theme=tokyonight)](https://github.com/Evgenija-P/github-readme-stats)
 
 
+<h2>Code Time</h2>
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29965%26project%3D%26in=0)](https://codetime.dev)
+
+
 
 <a href="https://www.linkedin.com/in/evheniya-poduzova/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/evgenija_borisjuk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
