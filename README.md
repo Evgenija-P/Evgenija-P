@@ -2,7 +2,7 @@
 <h2>👩‍💻 About Me</h2>
 
 Hi! I'm Evgenia, a passionate full-stack developer from Ukraine 🇺🇦  
-With over 2 years of experience, I specialize in building modern web applications using **React, Node.js, Tailwind, Next.js, and more**.  
+With over 3 years of experience, I specialize in building modern web applications using **React, Node.js, Tailwind, Next.js, TypeScript, NestJS and more**.  
 I enjoy turning ideas into reality, learning new tools, and writing clean, maintainable code.  
 <br/>
 
@@ -48,7 +48,7 @@ I enjoy turning ideas into reality, learning new tools, and writing clean, maint
 
 <h2>Code Time</h2>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29965%26project%3D%26in=0)](https://codetime.dev) 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36242)](https://codetime.dev)
 
 
 <h2>Training</h2>
