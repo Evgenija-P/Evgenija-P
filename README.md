@@ -26,9 +26,17 @@ I enjoy turning ideas into reality, learning new tools, and writing clean, maint
 
 
 
-<h2>𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
+<!--  <h2>𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚃𝚛𝚘𝚙𝚑𝚢</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evgenija-P&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true)](https://github.com/Evgenija-P/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Evgenija-P&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true)](https://github.com/Evgenija-P/github-profile-trophy) -->
+
+
+
+<h2>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍</h2>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Evgenija-P&show_icons=true&theme=tokyonight)
+
+<!-- [![Anurag's GitHub stats](https://gh-readme-profile.vercel.app/api?username=Evgenija-P&theme=transparent)]([https://github.com/Evgenija-P/github-readme-stats](https://gh-readme-profile.vercel.app/api?username=Evgenija-P)) -->
 
 
 <h2>𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜</h2>
@@ -38,17 +46,12 @@ I enjoy turning ideas into reality, learning new tools, and writing clean, maint
 
 <h2>𝚃𝚘𝚙 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙲𝚊𝚛𝚍</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenija-P&layout=compact&theme=tokyonight)](https://github.com/Evgenija-P/github-readme-stats)
-
-
-<h2>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgenija-P&theme=tokyonight)](https://github.com/Evgenija-P/github-readme-stats) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Evgenija-P&layout=compact&theme=tokyonight)
 
 
 <h2>Code Time</h2>
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36242)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29965)](https://codetime.dev)
 
 
 <h2>Training</h2>
@@ -66,7 +69,7 @@ I enjoy turning ideas into reality, learning new tools, and writing clean, maint
 
 <h2>Visitor's Count</h2>
 
-<img src="https://profile-counter.glitch.me/{Evgenija-P}/count.svg" alt="Evgenija-P :: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/:Evgenija-P:/count.svg" alt="Evgenija-P:: Visitor's Count" />
 <!--
 **Evgenija-P/Evgenija-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
