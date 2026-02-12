@@ -67,9 +67,9 @@ I enjoy turning ideas into reality, learning new tools, and writing clean, maint
 <br>
 
 
-<h2>Visitor's Count</h2>
+<!-- <h2>Visitor's Count</h2>
 
-<img src="https://profile-counter.deno.dev/:Evgenija-P:/count.svg" alt="Evgenija-P:: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/:Evgenija-P:/count.svg" alt="Evgenija-P:: Visitor's Count" /> -->
 <!--
 **Evgenija-P/Evgenija-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
